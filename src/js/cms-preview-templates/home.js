@@ -41,7 +41,7 @@ export default class PostPreview extends React.Component {
         </div>
       </div>
 
-      <div className="bg-grey-1 pv4">
+      {/* <div className="bg-grey-1 pv4">
         <div className="ph3 mw7 center">
 
           <div className="flex-l mhn2-l">
@@ -61,7 +61,7 @@ export default class PostPreview extends React.Component {
           </div>
 
         </div>
-      </div>
+      </div> */}
 
 
     </div>
