@@ -1,6 +1,8 @@
 ---
 title: With great power ...
 date: 2017-01-04T15:04:10.000Z
+keywords:
+  - klaire johnston words great power
 description: >-
   Words are powerful.  And yet, we carry around these little weapons without
   truly understanding the way they can be wielded.  
