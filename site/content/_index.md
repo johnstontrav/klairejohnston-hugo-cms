@@ -1,4 +1,8 @@
 ---
+keywords:
+  - Author
+  - Klaire Johnston
+  - Poetry writing creative 
 title: Klaire Johnston
 subtitle: Author
 image: /img/snow.jpg
