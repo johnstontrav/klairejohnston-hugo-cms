@@ -3,12 +3,12 @@ title: Klaire Johnston
 subtitle: Author
 image: /img/snow.jpg
 blurb:
-  heading: Something witty here klaire
-  text: Klaire's writing is evocative and inspired ... and unnervingly relatable.
+  heading: '  '
+  text: 'Klaire''s writing is evocative, inspired and unnervingly relatable.'
 intro:
   heading: Books
   text: >-
-    "An original new voice has been launchd. Klaire's work has gravity ... be
+    "An original new voice has been launched. Klaire's work has gravity ... be
     prepared."
 
     - Kerryl Jones, Literacy Consultant
