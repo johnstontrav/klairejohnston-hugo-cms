@@ -22,8 +22,8 @@ products:
   - image: /img/paperfactory.jpg
     text: >
       'Paper Factory' is one story told in fourteen poems. This tiny read is the
-      perfect introduction to Klaire's writing style.  Recommended: devour over
-      a cup of coffee or with a cheeky glass of wine. 
+      perfect introduction to Klaire's writing style.  Devour over a cup of
+      coffee or with a cheeky glass of wine. 
   - image: /img/wordsforsnow.png
     text: >-
       It's hypothesised that the Eskimo have over fifty different words for
