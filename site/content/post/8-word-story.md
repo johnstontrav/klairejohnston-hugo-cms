@@ -1,12 +1,14 @@
 ---
 title: '#8WordStory'
 date: 2017-01-04T15:04:10.000Z
+keywords:
+  - '#8wordstory'
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  I created a tiny read called 'Paper Factory' - it is one story told in just
+  fourteen poems.  
 image: /img/billboard.png
 ---
-I created a tiny read called 'Paper Factory' - it is one story told in just fourteen poems.  This hasn't yet found the acclaim of a story I wrote in just EIGHT words. (Brevity can truly be a source of genius, right?!)
+This hasn't yet found the acclaim of a story I wrote in just EIGHT words. (Brevity can truly be a source of genius, right?!)
 
 'Blackout poetry' (Google it! > you'll thank me) is a favourite warm-up of mine because it forces each word to earn its spot on the page. It proves some of the best material can come from the distillation of ideas down into very few words. 
 
