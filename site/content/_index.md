@@ -1,8 +1,4 @@
 ---
-keywords:
-  - Author
-  - Klaire Johnston
-  - Poetry writing creative 
 title: Klaire Johnston
 subtitle: Author
 image: /img/snow.jpg
@@ -12,10 +8,10 @@ blurb:
 intro:
   heading: Books
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    "An original new voice has been launchd. Klaire's work has gravity ... be
+    prepared."
+
+    - Kerryl Jones, Literacy Consultant
 products:
   - image: /img/ideas-skin.jpeg
     text: >-
@@ -31,19 +27,12 @@ products:
   - image: /img/wordsforsnow.png
     text: >-
       It's hypothesised that the Eskimo have over fifty different words for
-      snow. Loyalty reveals itself to have just as many variations. In what is a
-      Van and Luna show us how loyalty is born head us into this exploration of
-      the fluidity of loyalty, .  Only one will still be there when the sun
-      breaks through ...
-values:
-  heading: Events
-  text: >-
-    Have fun with this series of 'sparks' designed to ignite your creativity. 
-
-
-    These specially-curated insights reveal writing as it really unfolds. Forget
-    step-by-step or 'how to' guides ... get a birds-eye view of the creative
-    process, from the tiny sparks, through all the 'messy and random' that makes
-    imagination what it is, right up to the 'pens down', polished product.
+      snow. Loyalty, it seems, can be experienced in just as many variations. 
+      Luna and Van are just two of the characters who lead us into this heady
+      exploration of the fluidity of loyalty and show us certainty has never
+      been so uncertain.
+event:
+  heading: '  '
+  text: \
 ---
 
