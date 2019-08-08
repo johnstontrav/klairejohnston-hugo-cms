@@ -32,7 +32,10 @@ products:
       exploration of the fluidity of loyalty and show us certainty has never
       been so uncertain.
   - image: /img/screen-shot-2019-08-06-at-4.14.48-pm.png
-    text: '  '
+    text: >-
+      For a personalised inscription and autographed copy of 'Ideas', get in
+      touch via the contact page.  A great gift idea for avid readers, creative
+      types and supporters of Australian writing.
 event:
   heading: '  '
   text: \
