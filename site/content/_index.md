@@ -31,11 +31,11 @@ products:
       Luna and Van are just two of the characters who lead us into this heady
       exploration of the fluidity of loyalty and show us certainty has never
       been so uncertain.
-  - image: /img/screen-shot-2019-08-06-at-4.14.48-pm.png
+  - image: /img/screen-shot-2019-08-09-at-8.34.28-am.png
     text: >-
-      For a personalised inscription and autographed copy of 'Ideas', get in
-      touch via the contact page.  A great gift idea for avid readers, creative
-      types and supporters of Australian writing.
+      For an autographed and gift-wrapped copy of 'Ideas', with a personalised
+      inscription, get in touch via the contact page.  A great gift idea for
+      avid readers, creative types and supporters of Australian writing.
 event:
   heading: '  '
   text: \
