@@ -22,8 +22,8 @@ products:
   - image: /img/paperfactory.jpg
     text: >
       'Paper Factory' is one story told in fourteen poems. This tiny read is the
-      perfect introduction to Klaire's writing style.  Devour over a cup of
-      coffee or with a cheeky glass of wine. 
+      perfect introduction to Klaire's writing style.  It's recommended you
+      devour this over a cup of coffee or with a cheeky glass of wine. 
   - image: /img/wordsforsnow.png
     text: >-
       It's hypothesised that the Eskimo have over fifty different words for
@@ -31,6 +31,8 @@ products:
       Luna and Van are just two of the characters who lead us into this heady
       exploration of the fluidity of loyalty and show us certainty has never
       been so uncertain.
+  - image: /img/screen-shot-2019-08-06-at-4.14.48-pm.png
+    text: '  '
 event:
   heading: '  '
   text: \
