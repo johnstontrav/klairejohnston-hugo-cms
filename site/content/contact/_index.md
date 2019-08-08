@@ -3,6 +3,8 @@ title: Contact
 logo: /img/blog-flavor_wheel.jpg
 contact_entries: []
 ---
-# Keep me informed
+# Get in touch > klaire@klairejohnston.com
 
-Join the mailing list.
+# 
+
+Join the mailing list >
