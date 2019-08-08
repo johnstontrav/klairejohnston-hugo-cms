@@ -31,7 +31,7 @@ products:
       Luna and Van are just two of the characters who lead us into this heady
       exploration of the fluidity of loyalty and show us certainty has never
       been so uncertain.
-  - image: /img/screen-shot-2019-08-06-at-4.14.48-pm-copy.png
+  - image: /img/use-this.png
     text: >-
       For an autographed and gift-wrapped copy of 'Ideas', with a personalised
       inscription, get in touch via the contact page.  A great gift idea for
