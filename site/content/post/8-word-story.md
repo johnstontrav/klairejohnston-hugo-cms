@@ -1,6 +1,6 @@
 ---
 title: '#8WordStory'
-date: 2019-07-31T16:04:00.000Z
+date: 2019-08-04T16:04:00.000Z
 keywords:
   - '#8wordstory'
 description: >-
