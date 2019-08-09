@@ -1,5 +1,5 @@
 ---
-title: Write Spark
+title: '   '
 image: /img/aaron-burden-axqmy8mssdk-unsplash.jpg
 values:
   - heading: Shade-grown coffee
