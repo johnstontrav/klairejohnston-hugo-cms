@@ -16,3 +16,5 @@ I tried to imagine a circumstance where every shop in town, or across the region
 Hooray for consumerism, commercialism and the weights and balances of the world, right?
 
 I didn't buy the chips that day. All of a sudden, reality wasn't so palatable.
+
+![](/img/screen-shot-2019-08-09-at-1.14.50-pm.png)
