@@ -1,6 +1,6 @@
 :root {
 	/* Colors */
-	--primary: #7E5F91;
+	--primary: #76528C;
 	--yellow: rgb(254, 211, 1);
 	--highlight: #AFDAEC;
 	--white: rgba(255, 255, 255, 1);
@@ -15,9 +15,9 @@
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
 
-	--font-size: 14px;
-	--font-size-m: 20px;
-	--font-size-l: 22px;
+	--font-size: 16px;
+	--font-size-m: 16px;
+	--font-size-l: 16px;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
@@ -35,4 +35,8 @@
 	/* Miscelaneous */
 	--border-radius: .25rem;
 	--hover-transition: all 150ms ease;
+}
+
+h1,h2 {
+	font-family: 'Merriweather', serif;
 }
