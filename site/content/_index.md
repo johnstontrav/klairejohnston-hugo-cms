@@ -5,11 +5,9 @@ image: /img/snow.jpg
 blurb:
   heading: '  '
   text: >-
-    Klaire's writing is evocative, inspired and unnervingly relatable. Be
-    prepared. 
-
-
-    - Kerryl Jones, Literacy Consultant.
+    "Klaire's writing is evocative, inspired and unnervingly relatable. Be
+    prepared."                                                                                             
+               {Kerryl Jones - Literacy Consultant}
 intro:
   heading: Books
   text: >-
