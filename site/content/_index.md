@@ -40,7 +40,7 @@ products:
       inscription, get in touch via the contact page.  A great gift idea for
       avid readers, creative types and supporters of Australian writing.
 event:
-  heading: '  '
-  text: \
+  heading: '  sfdsfsdfdf'
+  text: xvcvxcxcv\
 ---
 
