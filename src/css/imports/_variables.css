@@ -1,6 +1,7 @@
 :root {
 	/* Colors */
-	--primary: rgb(254, 211, 1);
+	--primary: #7E5F91;
+	--yellow: rgb(254, 211, 1);
 	--highlight: #AFDAEC;
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
