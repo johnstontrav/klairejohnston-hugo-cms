@@ -1,6 +1,6 @@
 ---
 title: With great power ...
-date: 2017-01-04T15:04:10.000Z
+date: 2017-07-31T16:04:00.000Z
 keywords:
   - klaire johnston words great power
 description: >-
