@@ -1,6 +1,6 @@
 ---
 title: Write Spark
-image: /img/about-jumbotron.jpg
+image: /img/aaron-burden-axqmy8mssdk-unsplash.jpg
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
