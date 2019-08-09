@@ -22,11 +22,6 @@ products:
       one girl's search for the truest version of herself. Artful and
       confronting, Klaire uses the familiarity of the everyday to expose deeper,
       universal truths. 
-  - image: /img/paperfactory.jpg
-    text: >
-      'Paper Factory' is one story told in fourteen poems. This tiny read is the
-      perfect introduction to Klaire's writing style.  It's recommended you
-      devour this over a cup of coffee or with a cheeky glass of wine. 
   - image: /img/wordsforsnow.png
     text: >-
       It's hypothesised that the Eskimo have over fifty different words for
@@ -39,6 +34,11 @@ products:
       For an autographed and gift-wrapped copy of 'Ideas', with a personalised
       inscription, get in touch via the contact page.  A great gift idea for
       avid readers, creative types and supporters of Australian writing.
+  - image: /img/paperfactory.jpg
+    text: >
+      'Paper Factory' is one story told in fourteen poems. This tiny read is the
+      perfect introduction to Klaire's writing style.  It's recommended you
+      devour this over a cup of coffee or with a cheeky glass of wine. 
 event:
   heading: '  sfdsfsdfdf'
   text: xvcvxcxcv\
