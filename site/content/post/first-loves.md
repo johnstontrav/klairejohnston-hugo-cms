@@ -48,6 +48,10 @@ I felt a spark. So, I volunteered. \
 \
 After offering to spend an hour just to get a feel for whether THIS was where I wanted to 'give up' my time, I dragged myself out of there five hours later with a realisation that what I gave in time and expertise was paying back to me a hundred-fold in pure enjoyment.  
 
+![](/img/lidya-nada-_0akqa9gr4s-unsplash.jpg)
+
+_Photo by Lidya Nada_
+
 I felt the buzz I had in my first retail jobs, at The Body Shop and IKEA, surrounded by ground-breaking philosophy, fabulous products and a healthy dose of philanthropy.  And while working in retail can be one of the tougher ways to make a living (and have a life) there is still something joyous for me about playing shop. 
 
 Think back to those moments in your play room, sandpit, attic, tree house, back yard ... the ones that felt both joyous and comfortable, effortless yet valuable.
