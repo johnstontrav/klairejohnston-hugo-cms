@@ -48,8 +48,10 @@ _Photo by Anastase Maragos_
 
 Not far from home, full of positive intent and fabulous finds, is a family-run Op Shop.  The efforts of the owners notwithstanding, this shop is yearning for a bit of retail savvy; some bold display choices, clever merchandising and a bit of tough love. 
 
-I felt a spark. So, I volunteered. \
-\
+I felt a spark. So, I volunteered.
+
+## I dragged myself out of there ...
+
 After offering to spend an hour just to get a feel for whether THIS was where I wanted to 'give up' my time, I dragged myself out of there five hours later with a realisation that what I gave in time and expertise was paying back to me a hundred-fold in pure enjoyment.  
 
 ![](/img/lidya-nada-_0akqa9gr4s-unsplash.jpg)
