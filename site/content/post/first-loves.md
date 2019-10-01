@@ -32,7 +32,11 @@ I decided to play shop.
 
 _Photo by @helloimnik_ 
 
-I'm not unique in having spent some of my youth retailing old nick knacks to my parents or trying to sell sketchy produce to passers by on my front lawn (50c seemed good value for lemon juice added to store bought lemonade). I organised our play room into a lively retail space, made signs and kept that cash register ringing. 
+I'm not unique in having spent some of my youth retailing old nick knacks to my parents or trying to sell sketchy produce to passers by on my front lawn (50c seemed good value for lemon juice added to store bought lemonade). I organised our play room into a lively retail space, made signs and kept that cash register ringing.
+
+
+
+
 
 ## Sensible jobs
 
