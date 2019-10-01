@@ -16,7 +16,7 @@ Bets are on that in your youngest years, these weren't the things that made you 
 
 ![](/img/markus-spiske-gibnvym0jgs-unsplash.jpg)
 
-
+_Photo by Markus Spiske_
 
 Our first loves were much more simple than that - collecting and polishing stones, adding features to a makeshift cubby, dressing up and being someone or something else entirely.  Think back to that 'play' you returned to whenever you had the opportunity.
 
@@ -26,17 +26,21 @@ Last week I made a huge leap forward simply by jumping decades in to the past.
 
 I decided to play shop. 
 
-![](/img/anastase-maragos-ocasfpltnd8-unsplash.jpg "Photo by Anastase Maragos on Unsplash")
+![](/img/hello-i-m-nik-zr-fg8ef2fc-unsplash.jpg)
 
-_Photo by Anastase Maragos on Unsplash_
+_Photo by @helloimnik_ 
 
 I'm not unique in having spent some of my youth retailing old nick knacks to my parents or trying to sell sketchy produce to passers by on my front lawn (50c seemed good value for lemon juice added to store bought lemonade). I organised our play room into a lively retail space, made signs and kept that cash register ringing. 
 
-In Year 12 I applied to do Visual Merchandising at university and was accepted into a sought-after creative arts course but, on the advice of many 'wiser' than me, accepted a double degree that seemed to lean to a more esteemed corporate future. 
+In Year Twelve, I applied to do Visual Merchandising at university and was accepted into a sought-after creative arts course but, on the advice of many 'wiser' than me, accepted a double degree that seemed to lean to a more esteemed corporate future. 
 
 Unsurprisingly, that didn't stick. 
 
-Now, after treading through years of 'sensible' jobs and spending leisure time on popular grown-uppy activities (which admittedly bring me some sense of satisfaction), I went back to honour that girl in the play room.
+Now, after treading through years of 'sensible' jobs and spending leisure time on popular grown-uppy activities (which admittedly do bring me some sense of satisfaction), I went back to honour that girl in the play room.
+
+![](/img/anastase-maragos-ocasfpltnd8-unsplash.jpg)
+
+_Photo by Anastase Maragos_
 
 Not far from home, full of positive intent and fabulous finds, is a family-run Op Shop.  The efforts of the owners notwithstanding, this shop is yearning for a bit of retail savvy; some bold display choices, clever merchandising and a bit of tough love. 
 
