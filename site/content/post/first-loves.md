@@ -20,6 +20,8 @@ _Photo by Markus Spiske_
 
 Our first loves were much more simple than that - collecting and polishing stones, adding features to a makeshift cubby, dressing up and being someone or something else entirely.  Think back to that 'play' you returned to whenever you had the opportunity.
 
+## Where did you lose it?
+
 Where did you lose it? And really, WHY did you?
 
 Last week I made a huge leap forward simply by jumping decades in to the past.  
@@ -31,6 +33,8 @@ I decided to play shop.
 _Photo by @helloimnik_ 
 
 I'm not unique in having spent some of my youth retailing old nick knacks to my parents or trying to sell sketchy produce to passers by on my front lawn (50c seemed good value for lemon juice added to store bought lemonade). I organised our play room into a lively retail space, made signs and kept that cash register ringing. 
+
+## Sensible jobs
 
 In Year Twelve, I applied to do Visual Merchandising at university and was accepted into a sought-after creative arts course but, on the advice of many 'wiser' than me, accepted a double degree that seemed to lean to a more esteemed corporate future. 
 
