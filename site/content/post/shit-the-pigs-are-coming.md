@@ -8,6 +8,7 @@ description: >
   task in high school, some twenty odd years ago. The minute he told me what
   he'd written and then relayed the comment he'd received from the teacher to
   justify a low grade, I knew his teacher was flat out wrong....
+image: /img/screen-shot-2019-11-26-at-2.51.52-pm.png
 ---
 
 I'm not saying this out of loyalty, or some polite deference to the sentiment that 'everyone's viewpoint is unique and special'. The teacher was simply a slave to the system, elitist, and ... DEAD WRONG.  I say this not as a wife, nor a parent myself, and not even as a qualified teacher - which I am - but as someone devoted to the art of creativity and an avid consumer of AUTHENTICITY. I'm saying it as a movie-goer, an idealist, a realist and ... like most of you readers ... someone endeared to a good and faithful piece of story-telling. 
