@@ -7,7 +7,7 @@ blurb:
   text: >-
     "Klaire's writing is evocative, inspired and unnervingly relatable. Be
     prepared."                                                                                             
-               {Kerryl Jones - Literacy Advocate}
+               {Kerryl Jones - Literacy  Advocate}
 intro:
   heading: Books
   text: >-
