@@ -17,15 +17,13 @@ This is what a bushfire evacuation plan looks like.
 
 ![](/img/signal-attachment-2020-01-11-171117.jpeg)
 
-Template issued from a home printer running out of ink. Made while your partner is on a business trip overseas because you realise that, despite the last three idillic summers, you now really, actually, ACTUALLY live in a full-on THAT SHIT'S QUITE REAL bushfire zone. You now hear it daily.
-
-Your unpreparedness is the stuff that makes headlines out of ignorant people and you're not going to be one of those.
+Template issued from a home printer running out of ink. Made while your partner is on a business trip overseas because you realise that, despite the last three idillic summers, you now really, actually, ACTUALLY live in a full-on THAT SHIT'S QUITE REAL bushfire zone. You begin to hear it daily.
 
 So, you print the template ... and skip the 'preparing for the bushfire season' section because you realise you aren't the one in the relationship with expertise on the whipper snipper and the snake hazard of thistles and weeds beside the garage has to belong on the ever-growing To Do List you are scrawling alongside the bushfire plan. 
 
 It goes on the fridge next to the Christmas menu shopping list. 
 
-You talk about it for half a minute on the long distance FaceTime call, but the kids are wanting to show off their latest scooter tricks, so. Priorities. 
+You talk about it for half a minute on a long distance FaceTime call, but the kids are wanting to show off their latest scooter tricks, so. Priorities. 
 
 Your trigger to leave is: SEVERE.
 
@@ -35,19 +33,17 @@ Why exactly? There are two danger ratings above that.
 
 ![]()
 
+(Well, this is really all hypothetical isn't it?!)
 
+Under SEVERE it says: "Well-prepared homes that are actively defended can provide safety." 
 
-Don't get - as usual - all over-thinky with this. Well...
+Your uninsulated, kit-home style bungalow isn't synonymous with fire safety. And you don't know how to use the bloody whipper snipper. 
 
-Because it says: "Well-prepared homes that are actively defended can provide safety." 
-
-Your uninsulated, kit-home style bungalow didn't come with a fire rating. And you don't know how to use the f^$%#ing whipper snipper. 
-
-And HOW exactly should you block a drainpipe to fill your gutters, without creating a future plumbing emergency? 
+And HOW exactly should you block a drainpipe to fill your gutters without creating a future plumbing emergency? 
 
 You begin to hear useful statistics ... like your town is one of the five most likely to be impacted by surrounding bushfires IN THE WORLD. Don't Google it - it's not on the brochure. 
 
-Much later you also learn that your town of under 3000 people evacuated 35,000 tourists in one day and you get that little glow of pride. You are told you're also one of the top tourist towns in the state this time of year. 
+Much later you also learn that your town of under 3000 people evacuated 35,000 tourists in one day and you get that little glow of pride. 
 
 THE LANDLINE RINGS.
 
@@ -61,9 +57,9 @@ You drive on a highway you've driven dozens of times, toward a place you've only
 
 You stop at a service centre that has a long queue for McDonald's throbbing with impatience. 
 
-As you check for latest alerts, you remember two things you forgot to pack, because you forgot they should even be on the list. 
+As you check for latest alerts, you remember two things you forgot to pack because you omitted them from the list.
 
-Then you look at your Nissan Micra which, at capacity, has failed to attain the speed limit on the highway and think of items you left behind knowingly, which were built for the bushfire plan you made when you thought you had two cars to pack, with three other people to help, and a trailer in tow. 
+Then you look at your Nissan Micra which, at capacity, has failed to sustain the speed limit on the highway and think of items you left behind knowingly, which were built for the bushfire plan you made when you had two cars to pack, with three other people to help, and a trailer in tow. 
 
 Your dog looks forlorn. 
 
