@@ -3,17 +3,16 @@ title: The biggest threat is not what you think.
 date: 2020-01-11T09:39:41.817Z
 keywords:
   - '#bushfire #vicemergency #australianarmy'
-description: >-
+description: >+
   I was probably under equal threat from alcoholic old Robbo* in my quarters
   tripping me over while staggering around our common areas as I was from fire. 
 
-
-  *Names changed for what good it will do.
 image: /img/signal-attachment-2020-01-11-210913.jpeg
 ---
+\*Names are changed for what good it will do.
+
+\
 \[For sanity's sake, see Part 1 and Part 2]
-
-
 
 Robbo's miniature yappy little Maisie* kept trying to attack my Aussie, who was frightened despite his 39 kg weight advantage. Robbo's repeated suggestions that the two dogs would be friendlier once they'd met were great ... he just failed to recall the fact they had already met (only around 8 times) and that this didn't allay the situation. 
 
@@ -28,8 +27,6 @@ Then I got in the car, free from threat of fires (for now) and on the firm road 
 Back in town I had dinner out, eager to spend at a business who is used to turning people away. I noted that the place that accommodated hundreds in one sitting had about fourteen of us making the rounds. 
 
 ![](/img/signal-attachment-2020-01-11-210846.jpeg)
-
-
 
 We are trying, while already knowing our efforts are incredibly insufficient. 
 
