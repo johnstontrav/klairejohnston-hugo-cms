@@ -1,6 +1,6 @@
 ---
 title: 'This is what a real bushfire plan looks like. '
-date: 2020-01-11T05:32:16.958Z
+date: 2020-01-09T20:32:00.000Z
 keywords:
   - >-
     #emergency #bushfire #australianbushfires #evacuation #redcross
