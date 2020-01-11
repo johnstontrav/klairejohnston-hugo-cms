@@ -17,8 +17,6 @@ This is what a bushfire evacuation plan looks like.
 
 ![](/img/signal-attachment-2020-01-11-171117.jpeg)
 
-
-
 Template issued from a home printer running out of ink. Made while your partner is on a business trip overseas because you realise that, despite the last three idillic summers, you now really, actually, ACTUALLY live in a full-on THAT SHIT'S QUITE REAL bushfire zone. You now hear it daily.
 
 Your unpreparedness is the stuff that makes headlines out of ignorant people and you're not going to be one of those.
@@ -32,6 +30,12 @@ You talk about it for half a minute on the long distance FaceTime call, but the 
 Your trigger to leave is: SEVERE.
 
 Why exactly? There are two danger ratings above that. 
+
+![](/img/signal-attachment-2020-01-11-171144.jpeg)
+
+![]()
+
+
 
 Don't get - as usual - all over-thinky with this. Well...
 
@@ -47,7 +51,7 @@ Much later you also learn that your town of under 3000 people evacuated 35,000 t
 
 THE LANDLINE RINGS.
 
-And you move. You move with absolute purpose while simultaneously doubting your every action. 
+An automated voice talks and you move. You move with absolute purpose while simultaneously doubting your every action. 
 
 You read the list you are following OUT LOUD to yourself and make yourself say 'check' each time you've actually adhered to the plan.
 
