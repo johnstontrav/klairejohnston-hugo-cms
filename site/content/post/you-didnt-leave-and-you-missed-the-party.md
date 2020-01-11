@@ -21,7 +21,7 @@ Only four years deep into being a Victorian I've heard many stories over the cou
 
 After my first evacuation, only a week ago, I became intrigued at the collective voices.
 
-_"It wasn't like the fire of '03. We can't even see the flames."_ 
+_"It wasn't like the fire of '03. We couldn't even see the flames."_ 
 
 _"We've gone before and nothing actually happened."_
 
@@ -35,18 +35,16 @@ Even more-so when I spent last night at Latchford Army Barracks.
 
 ![](/img/signal-attachment-2020-01-11-193924.jpeg)
 
-On the fringe of an upgraded Watch & Act issues via Vic Emergency, I took the imminent isolation of Bright seriously. I was, uncharacteristically, at home on my own and therefore without the planned husband and children, 4x4 vehicle, and camper trailer to evacuate with, as previously planned. So, I improvised and herded my 40 kilo border collie into the back of the Nissan Micra and prayed to a god I don't believe in. 
+On the fringe of an upgraded Watch & Act issued via Vic Emergency, I took the imminent isolation of Bright as my trigger to leave. I was, uncharacteristically, home on my own and therefore without the planned husband and children, 4x4 vehicle, and camper trailer to evacuate with. So, I improvised and herded my 40 kilo border collie into the back of the Nissan Micra and prayed to a god I'm not sure I believe in. 
 
 I reached the Relief Centre at Wangaratta and was greeted in a way that reduced me to tears. A crowd of people, who in a Centrelink line would have bitten your digits off just to jump the queue, were quiet and orderly and exuding a silent kind of gratitude for the care that was being shown to them.
 
-And, holy shit. Next time you enter a crowded room of people who care when they aren't being paid, drop me a line. We'll both shout them a f#$@ing beer. 
+And, holy shit. Next time you enter a crowded room of desperate people who care when they aren't being paid, drop me a line. We'll both shout them a beer. 
 
 My newbie questions were answered with patience and then some, while water was ferried to my confused puppy tied up in the 43 degree heat outside. 
 
-There was no accommodation left in town for one person with a furry 'plus one'. Other options were readily presented to me and so, politely declining the offer of a staff member to bunk in their spare room (ideally leaving that for someone with non-fur-babies, who might be in greater desperation) I took the prompt to approach the army personnel there to check on lodging options. 
+There was no accommodation left in town for one person with a furry 'plus one'. So I took the prompt to approach the army personnel there to check on lodging options. 
 
-I cannot begin to convey how unpredictable and fantastic the next several hours would be ...
-
-
+I cannot begin to convey how unique  the next several hours would be ...
 
 \[Read On: Part 2]
