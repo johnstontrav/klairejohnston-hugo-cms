@@ -1,5 +1,5 @@
 ---
-title: The biggest threat is not what you think.
+title: The biggest threat is not what you think
 date: 2020-01-11T09:39:41.817Z
 keywords:
   - '#bushfire #vicemergency #australianarmy'
