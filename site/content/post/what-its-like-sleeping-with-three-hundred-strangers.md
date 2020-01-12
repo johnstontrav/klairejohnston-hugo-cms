@@ -1,5 +1,5 @@
 ---
-title: 'You didn''t leave and you missed the party. [Part 2]'
+title: 'You didn''t leave and you missed the party [Part 2]'
 date: 2020-01-11T05:54:00.000Z
 keywords:
   - >-
