@@ -1,5 +1,5 @@
 ---
-title: You didn't leave and you missed the party.
+title: You didn't leave and you missed the party
 date: 2020-01-11T02:39:00.000Z
 keywords:
   - >-
@@ -27,7 +27,7 @@ _"We've gone before and nothing actually happened."_
 
 I found myself thinking, "Lucky all bushfires are predictable". 
 
-It's not down to that though. Some will stay and some will leave and in each group, in any given event, some may be proven wrong. That's not really math, it's just life.
+It's not down to that though. Some will stay and some will leave and in each group, in any given event, some may be proven wrong. It's partly math, and partly just life.
 
 And while being proven wrong when it comes to choosing to evacuate generally only has a catastrophic and lasting impact on one side of the decision matrix (much like taking your life savings to the casino and planning to win), it had me thinking about the other side of the experiential equation. 
 
@@ -35,7 +35,7 @@ Even more-so when I spent last night at Latchford Army Barracks.
 
 ![](/img/signal-attachment-2020-01-11-193924.jpeg)
 
-On the fringe of an upgraded Watch & Act issued via Vic Emergency, I took the imminent isolation of Bright as my trigger to leave. I was, uncharacteristically, home on my own and therefore without the planned husband and children, 4x4 vehicle, and camper trailer to evacuate with. So, I improvised and herded my 40 kilo border collie into the back of the Nissan Micra and prayed to a god I'm not sure I believe in. 
+On the fringe of an upgraded Watch & Act issued via Vic Emergency to show an imminent bushfire risk, I took the impending isolation of Bright as my trigger to leave. I was, uncharacteristically, home on my own and therefore without the planned husband and children, 4x4 vehicle, and camper trailer to evacuate with. So, I improvised and herded my 40 kilo border collie into the back of the Nissan Micra and prayed to a god I'm not sure I believe in. 
 
 I reached the Relief Centre at Wangaratta and was greeted in a way that reduced me to tears. A crowd of people, who in a Centrelink line would have bitten your digits off just to jump the queue, were quiet and orderly and exuding a silent kind of gratitude for the care that was being shown to them.
 
