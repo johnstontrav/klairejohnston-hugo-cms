@@ -47,7 +47,7 @@ Much later you also learn that your town of under 3000 people evacuated 35,000 t
 
 THE LANDLINE RINGS.
 
-An automated voice talks and you move. You move with absolute purpose while simultaneously doubting your every action. 
+An automated voice talks and you move. You move with absolute purpose while simultaneously doubting your every action. A message simultaneously blips through on your mobile phone. 
 
 You read the list you are following OUT LOUD to yourself and make yourself say 'check' each time you've actually adhered to the plan.
 
