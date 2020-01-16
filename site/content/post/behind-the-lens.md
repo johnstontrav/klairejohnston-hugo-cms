@@ -8,8 +8,6 @@ description: >-
   zone to take first hand pictures like these ... 
 image: /img/screen-shot-2020-01-16-at-3.14.13-pm.png
 ---
-With our collective consciousness directed towards Australia's bushfire devastation this fire season, these images should be compulsory viewing. 
-
-
+With our collective consciousness directed towards Australia's bushfire devastation this fire season and these images, and the particular moments they capture, are such an important part of the narrative.
 
 https://www.smh.com.au/interactive/2020/behind-the-lens/live/index.html
