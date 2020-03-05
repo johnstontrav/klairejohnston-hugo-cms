@@ -3,10 +3,11 @@ title: Amazing words by amazing people
 date: 2020-02-19T08:58:00.000Z
 keywords:
   - '#novels #writingforlife #greatwriters #americanauthors'
-description: >+
+description: >
   This post inspired by a friend I'm yet to meet. And though I have a life just
   about as different from his as I can imagine, he's taught me a thing or two
   ...
+image: /img/aaron-burden-axqmy8mssdk-unsplash.jpg
 ---
 Beautiful souls exist all over the world. And they're surprisingly easy to meet. 
 
