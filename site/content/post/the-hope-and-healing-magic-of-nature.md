@@ -7,6 +7,7 @@ description: |-
   We all feel it - that intuition that there is healing in nature.
 
   The truth of it is nature is all we can fall back on.
+image: /img/signal-attachment-2020-03-05-211434.jpeg
 ---
 We wonder about resilience.  It's mentioned a lot these days. In the news. Between friends. In the back of our minds.
 
