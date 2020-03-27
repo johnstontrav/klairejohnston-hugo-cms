@@ -80,10 +80,12 @@ It can be a canvas for brainstorming and a tablet for the 'working out' part of 
 
 **How to utilise when home schooling:-**
 
-* Goal setting for the lesson
-  Encourage mind mapping and brainstorming
+![](/img/screen-shot-2020-03-27-at-7.11.18-pm.png)
+
+* Goal setting for the lesson/study period
+* Encourage mind mapping and brainstorming
 * Plan and note key ideas
-* Show maths working
+* Show working (maths, chemistry, etc.)
 * To "scaffold" (provide hints, illustrate with examples, etc)
 * Jot down ideas or questions to 'park' and address later in the lesson/day so as not to interrupt the flow of what is going on.
 * Jigsawing - multiple whiteboards can be combined towards one end project ("What are the main ideas we should include in our presentation?")
@@ -91,8 +93,7 @@ It can be a canvas for brainstorming and a tablet for the 'working out' part of 
 * Writing answers to verbal questions
 * Using whenever a verbal answer is difficult ("How would you divide this cake between twelve people?")
 * When answers might be rubbed out and revised along the way - "What does Australia look like? Can you mark the states and territories?"
-
-
+* Releasing anxiety ... let kids doodle whatever they like, without comment. Home schooling can be tough for them too!
 
 So, next time you venture on an expedition for milk, pasta or the ever-elusive bog roll, consider popping a white-board or two into your trolley (and maybe an extra pack of markers for good measure).
 
