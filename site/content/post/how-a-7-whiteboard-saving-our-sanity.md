@@ -1,5 +1,5 @@
 ---
-title: How a $7 whiteboard saving our sanity ...
+title: How a $7 whiteboard is saving our sanity ...
 date: 2020-03-24T01:06:00.000Z
 keywords:
   - "#homeschoolsanity #homeschooling #mentalhealthhow #stayhome #anxiety #selfisolation #quarantinelife #corona #covid_19\U0001F637 #covid #covid19news #coronaviruspandemic #virus #covıd19 #coronavirusitalianews #cornavirus #codvid19 #pandemic"
