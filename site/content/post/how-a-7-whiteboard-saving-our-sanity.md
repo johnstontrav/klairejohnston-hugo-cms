@@ -25,7 +25,7 @@ One thing I know both parenting and education share is the necessity for routine
 
 This is where my trusty $7 friend comes in. 
 
-\[image]
+![](/img/screen-shot-2020-03-27-at-7.18.30-pm.png)
 
 With isolation overshadowing us in all its forms and the ability to access resources being a key topic of national conversation, I decided to purchase two cheap (not so nasty) whiteboards from my local supermarket, with the idea that they'd stem the depletion of A4 paper reams in our household and, frankly, feel a little bit more fun. 
 
