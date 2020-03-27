@@ -74,17 +74,33 @@ Above all, what I discovered while teaching in classrooms where every student wa
 
 I also found it the BEST supplement to other activities. Without interfering with the main goal, a mini-whiteboard facilitates communication that might other be lost.  
 
-![]()
+![](/img/screen-shot-2020-03-27-at-6.54.49-pm.png)
 
 It can be a canvas for brainstorming and a tablet for the 'working out' part of a scenario. It can hold the smiley face or frown by which a young one is expressing their feelings about their mood or an activity, without impacting on their application to the activity itself. 
+
+**How to utilise when home schooling:-**
+
+* Goal setting for the lesson
+  Encourage mind mapping and brainstorming
+* Plan and note key ideas
+* Show maths working
+* To "scaffold" (provide hints, illustrate with examples, etc)
+* Jot down ideas or questions to 'park' and address later in the lesson/day so as not to interrupt the flow of what is going on.
+* Jigsawing - multiple whiteboards can be combined towards one end project ("What are the main ideas we should include in our presentation?")
+* Practising handwriting form (e.g. Japanese Hiragana or Kanji)
+* Writing answers to verbal questions
+* Using whenever a verbal answer is difficult ("How would you divide this cake between twelve people?")
+* When answers might be rubbed out and revised along the way - "What does Australia look like? Can you mark the states and territories?"
+
+
 
 So, next time you venture on an expedition for milk, pasta or the ever-elusive bog roll, consider popping a white-board or two into your trolley (and maybe an extra pack of markers for good measure).
 
 Whether holidaying or home-schooling, you might just be glad you did.
 
-<image>
 
-Activity ideas 
+
+_**FUN Activity Ideas**_ 
 
 Sharing one whiteboard:-
 
