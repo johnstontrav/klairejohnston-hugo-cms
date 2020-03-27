@@ -4,9 +4,11 @@ date: 2020-03-24T01:06:00.000Z
 keywords:
   - "#homeschoolsanity #homeschooling #mentalhealthhow #stayhome #anxiety #selfisolation #quarantinelife #corona #covid_19\U0001F637 #covid #covid19news #coronaviruspandemic #virus #covıd19 #coronavirusitalianews #cornavirus #codvid19 #pandemic"
 description: >-
-  Forget toilet paper. Two other tiny white squares have revolutionised our
-  #selfisolation and homeschooling journey.  And they don't look to be falling
-  out of favour with the kids any time soon.
+  Forget toilet paper. Two other tiny white squares have revolutionised my
+  family's #selfisolation and homeschooling journey.  
+
+
+  And they don't look to be falling out of favour with the kids any time soon.
 image: /img/img_2302.jpg
 ---
 As I type, my sons are sitting on our back deck playing HANGMAN with Nan on FaceTime.  Yes, we've gone 'old school' games quite quickly in this household. 
@@ -60,25 +62,10 @@ Well, here's my answer to that.
 Here's what a whiteboard might do, that paper (blank/worksheets/notebooks) simply doesn't:-
 
 * **It offers impermanence.** Kids are critiqued daily for their handwriting, evaluated on their written answers, expected to show a result on paper for any number of tasks. What if they can put something down that can easily be wiped away? Something that isn't there later to be pinned on a fridge or kept as a running record of achievement. So what if they spell skeletan with that 'a' or start doodling in the middle of a maths sum? It matters not when they are a mere wipe of a cloth from something new.
-
-
-
 * **It gives kids freedom.** See above, and add creating any type of 2-D imagining to the list. Monsters farting out the answers to equations are fun, for example. And regular maths worksheets don't allow much room for those.
-
-
-
 * **It encourages a new tactile experience.** It's why kids like running slime through their hands, using play-doh or banging one object against another over and over and over again. It FEELS different, and that sensory input sparks something great in the brain.
-
-
-
 * **It makes kids feel like a BOSS**. Who uses whiteboards all day long? That most revered and influential figure (up there with nurse, firefighter and sports coach) ... their teacher. Suddenly kids get to set agendas for activities, write 'to do' lists and explain things to YOU on their mega-amazing, this-is-the-centre-of-my-learning-universe type board. That's real power, baby.
-
-
-
 * **It lets you be 'good cop'**, when parenting in an ever-tightening physical arena might feel more heavily populated with 'bad cop' moments. I give my boys a few minutes at the start of our Japanese lessons to write down multi-lingual insults so we can all have a bit of light relief. It's not until the board is full and it's wiped away that the more P.C. learning starts.  
-
-
-
 * **It's full of silent revelations.** With that one little magical marker and board you can truly work one-on-one, even while there are four of you gathered around the same table. Much to everyone's relief, not every thought needs to be shared.
 
 Above all, what I discovered while teaching in classrooms where every student was given a whiteboard for the lesson is that, no matter the age, with a whiteboard in hand, creativity ensued. 
@@ -96,8 +83,6 @@ So, next time you venture on an expedition for milk, pasta or the ever-elusive b
 Whether holidaying or home-schooling, you might just be glad you did.
 
 <image>
-
-
 
 Activity ideas 
 
