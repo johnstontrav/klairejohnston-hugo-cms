@@ -2,7 +2,7 @@
 title: 'Every day, something new.'
 date: 2020-04-01T04:26:14.453Z
 keywords:
-  - '#covid-19'
+  - "#homeschoolsanity #homeschooling #mentalhealthhow #stayhome #anxiety #selfisolation #quarantinelife #corona #covid_19\U0001F637 #covid #covid19news #coronaviruspandemic #virus #covıd19 #coronavirusitalianews #cornavirus #codvid19 #pandemic"
 description: Three months ago today I made a resolution.
 image: /img/glen-carrie-t8o2em6wst0-unsplash.jpg
 ---
