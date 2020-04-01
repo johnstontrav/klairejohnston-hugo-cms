@@ -4,6 +4,7 @@ date: 2020-04-01T04:26:14.453Z
 keywords:
   - '#covid-19'
 description: Three months ago today I made a resolution.
+image: /img/glen-carrie-t8o2em6wst0-unsplash.jpg
 ---
 Every day, something new. 
 
