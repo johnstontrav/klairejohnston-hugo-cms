@@ -61,7 +61,9 @@ _\*Changing by the minute ..._
 
 My order of a felt pocket heart kit from 1000 Hearts is now on its way and with it I plan to join the movement of all the other Heartists out there (yes, it's a thing!) and stitch little hearts to give away to brighten someone's day. 
 
-![](/img/hearts.jpg "Image from 1000 Hearts on Etsy")
+![](/img/hearts.jpg "Photo from 1000 Hearts on Etsy")
+
+_Photo from 1000 Hearts on Etsy_
 
 I'm grateful for finding GIVIT because it's actually tough to make the act of giving feel tangible for kids, when they can't always participate on a level that adults can (like working in a soup kitchen, or handing out blankets on the streets). Kids know they want to give, and know they have the means (their coin jars), but it is the connection to an individual with a tangible in a particular adverse circumstance that can be hard to illuminate. 
 
@@ -73,6 +75,6 @@ You'll be nothing but glad that you did.
 
 Useful links:
 
-www.givit.org.au
+[www.givit.org.au](givit.org.au)
 
 https://www.etsy.com/au/shop/1000HeartsAustralia
