@@ -29,6 +29,8 @@ After days of spinning in circles and coming back to my computer to stare at the
 
 ![](/img/photo-1497633762265-9d179a990aa6.jpeg "Photo by Kimberly Farmer on Unsplash")
 
+_Photo by Kimberly Farmer on Unsplash_
+
 I offered books to a toy room for the DIY Dads program at the Hobart City Mission, Boys Size 6 clothes to a grandmother in poverty raising her grandson with special needs, and the rest of the odd sized clothing to a Queensland organisation that last year clothed over 700 men, women and children during winter. 
 
 Then I waited. 
@@ -42,6 +44,8 @@ Now, I'm a minimalist living in a shoe box house and knowing that we were operat
 Instead, my sons and I had afternoon tea in front of my computer and talked about what I'd discovered, what I'd done. Then I offered this as a way of spending the coins they'd been collecting all year in their 'giving' jars.
 
 ![](/img/napendra-singh-xmvqvecdsqi-unsplash.jpg "Photo by Napendra Singh on Unsplash")
+
+_Photo by Napendra Singh on Unsplash_
 
 Our first stop was a family whose boys were sleeping in a bare bedroom. After our holiday expedition to spend pocket money at K Mart (just about as exciting to them as a trip to Dreamworld!) they decided they could offer those boys a similar experience. So we bought a shopping voucher for them to go and choose their own posters, bedside lamps, toys and whatever to transform their room into somewhere they'd feel more comfortable to sleep.
 
