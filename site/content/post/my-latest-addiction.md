@@ -43,17 +43,17 @@ Instead, my sons and I had afternoon tea in front of my computer and talked abou
 
 ![](/img/napendra-singh-xmvqvecdsqi-unsplash.jpg "Photo by Napendra Singh on Unsplash")
 
-
-
 Our first stop was a family whose boys were sleeping in a bare bedroom. After our holiday expedition to spend pocket money at K Mart (just about as exciting to them as a trip to Dreamworld!) they decided they could offer those boys a similar experience. So we bought a shopping voucher for them to go and choose their own posters, bedside lamps, toys and whatever to transform their room into somewhere they'd feel more comfortable to sleep.
 
 We're still searching for other places to give. 
 
 And now that I'm picturing the faces of people who just received something they desperately needed, I thought about what it might feel like to give a little bit more.
 
-Until I have the means to wipe out all 1046 donation requests in a single blow (hello winning lottery ticket) I've added something crafty to my giving ... literally.
+Until I have the means to wipe out all 1047* donation requests in a single blow (hello winning lottery ticket) I've added something crafty to my giving ... literally.
 
-![](/img/screen-shot-2020-07-17-at-10.51.43-am.png)
+![](/img/screen-shot-2020-07-17-at-10.59.58-am.png)
+
+_\*Changing by the minute ..._
 
 My order of a felt pocket heart kit from 1000 Hearts is now on its way and with it I plan to join the movement of all the other Heartists out there (yes, it's a thing!) and stitch little hearts to give away to brighten someone's day. 
 
@@ -66,8 +66,6 @@ For me GIVIT has gone some way to filling that gap.
 Finally, if you have read this far, and have had the benefit of eating a solid meal today, wearing clean clothes or sleeping without fear in your own home, consider pooling your change or getting your Marie Kondo on and doing a quick GIVIT search.
 
 You'll be nothing but glad that you did.
-
-
 
 Useful links:
 
