@@ -27,7 +27,7 @@ Like someone wanting a blanket for winter, or a bath towel, or a notebook and pe
 
 After days of spinning in circles and coming back to my computer to stare at the dozens of open tabs I had for places needing donated items, I got my act together and started ACTUALLY giving. 
 
-![Photo by Kimberly Farmer on Unsplash](/img/photo-1497633762265-9d179a990aa6.jpeg)
+![](/img/photo-1497633762265-9d179a990aa6.jpeg "Photo by Kimberly Farmer on Unsplash")
 
 I offered books to a toy room for the DIY Dads program at the Hobart City Mission, Boys Size 6 clothes to a grandmother in poverty raising her grandson with special needs, and the rest of the odd sized clothing to a Queensland organisation that last year clothed over 700 men, women and children during winter. 
 
@@ -41,15 +41,23 @@ Now, I'm a minimalist living in a shoe box house and knowing that we were operat
 
 Instead, my sons and I had afternoon tea in front of my computer and talked about what I'd discovered, what I'd done. Then I offered this as a way of spending the coins they'd been collecting all year in their 'giving' jars.
 
+![](/img/napendra-singh-xmvqvecdsqi-unsplash.jpg "Photo by Napendra Singh on Unsplash")
+
+
+
 Our first stop was a family whose boys were sleeping in a bare bedroom. After our holiday expedition to spend pocket money at K Mart (just about as exciting to them as a trip to Dreamworld!) they decided they could offer those boys a similar experience. So we bought a shopping voucher for them to go and choose their own posters, bedside lamps, toys and whatever to transform their room into somewhere they'd feel more comfortable to sleep.
 
 We're still searching for other places to give. 
 
 And now that I'm picturing the faces of people who just received something they desperately needed, I thought about what it might feel like to give a little bit more.
 
-Until I have the means to wipe out all 1040 donation requests in a single blow (hello winning lottery ticket) I've added something crafty to my giving ... literally.
+Until I have the means to wipe out all 1046 donation requests in a single blow (hello winning lottery ticket) I've added something crafty to my giving ... literally.
+
+![](/img/screen-shot-2020-07-17-at-10.51.43-am.png)
 
 My order of a felt pocket heart kit from 1000 Hearts is now on its way and with it I plan to join the movement of all the other Heartists out there (yes, it's a thing!) and stitch little hearts to give away to brighten someone's day. 
+
+![](/img/hearts.jpg "Image from 1000 Hearts on Etsy")
 
 I'm grateful for finding GIVIT because it's actually tough to make the act of giving feel tangible for kids, when they can't always participate on a level that adults can (like working in a soup kitchen, or handing out blankets on the streets). Kids know they want to give, and know they have the means (their coin jars), but it is the connection to an individual with a tangible in a particular adverse circumstance that can be hard to illuminate. 
 
@@ -64,3 +72,5 @@ You'll be nothing but glad that you did.
 Useful links:
 
 www.givit.org.au
+
+https://www.etsy.com/au/shop/1000HeartsAustralia
