@@ -9,7 +9,9 @@ description: >-
 ---
 It started with a simple Google search. 
 
-See, I have things I've needed to give away. I'd ordinarily find new homes for books, toys and kids clothes by taking them to my local op shop. But, like many businesses  during this covid pandemic, it's remained closed. Both for shopping - \*sigh\* - and donations.  
+![](/img/screen-shot-2020-07-17-at-10.35.10-am.png)
+
+See, I have things I've been desperate to give away. Ordinarily I'd find new homes for books, toys and kids clothes by taking them to my local op shop. But, like many businesses  during this covid pandemic, it's remained closed. Both for shopping - \*sigh\* - and donations.  
 
 So, with a house full of boxes due to renovations underway and a growing pile of special pieces that could be loved by someone else I know I just had to get these things shifted and asked Mr Google to show me where. 
 
@@ -25,7 +27,9 @@ Like someone wanting a blanket for winter, or a bath towel, or a notebook and pe
 
 After days of spinning in circles and coming back to my computer to stare at the dozens of open tabs I had for places needing donated items, I got my act together and started ACTUALLY giving. 
 
-I offered books to a toyroom for the DIY Dads program at the Hobart City Mission, Boys Size 6 clothes to a grandmother in poverty raising her grandson with special needs, and the rest of the odd sized clothing to a Queensland organisation that last year clothed over 700 men, women and children during winter. 
+![Photo by Kimberly Farmer on Unsplash](/img/photo-1497633762265-9d179a990aa6.jpeg)
+
+I offered books to a toy room for the DIY Dads program at the Hobart City Mission, Boys Size 6 clothes to a grandmother in poverty raising her grandson with special needs, and the rest of the odd sized clothing to a Queensland organisation that last year clothed over 700 men, women and children during winter. 
 
 Then I waited. 
 
@@ -54,3 +58,9 @@ For me GIVIT has gone some way to filling that gap.
 Finally, if you have read this far, and have had the benefit of eating a solid meal today, wearing clean clothes or sleeping without fear in your own home, consider pooling your change or getting your Marie Kondo on and doing a quick GIVIT search.
 
 You'll be nothing but glad that you did.
+
+
+
+Useful links:
+
+www.givit.org.au
