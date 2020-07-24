@@ -7,6 +7,7 @@ description: >-
   While a global pandemic is certainly a hand sanitising and hygiene prompt, and
   face masks have become the new 'black', there are everyday high touch points
   you might be neglecting to clean.
+image: /img/paul-hanaoka-hbyyffokvm0-unsplash.jpg
 ---
 Often forgotten, these 6 things are worthwhile incorporating into your regular cleaning sanitising regime (because health is important and gunk removal is never a bad thing).
 
