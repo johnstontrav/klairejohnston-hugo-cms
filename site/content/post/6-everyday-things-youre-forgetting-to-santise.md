@@ -57,6 +57,10 @@ Today's the day to begin light but regular wiping down of your remote.
 
 **6. Your wallet**
 
+![](/img/photo-1560472355-536de3962603.jpeg)
+
+_Image: Stephen Phillips - Hostreviews.co.uk via Unsplash_
+
 Whether we're talking leather or polyester, Louis V or Target, your wallet has the potential to pick up bacteria and viruses through surface to surface contact or simply via your handling.
 
 If you've been leaving this high touch item off your regular cleaning routine, consider how many times in a week you pull it out to make a cash or card purchase, stuff receipts into it, draw out a business card or store loyalty card or even transfer it from bag to bag.
