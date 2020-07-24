@@ -9,6 +9,8 @@ description: >-
   you might be neglecting to clean.
 image: /img/paul-hanaoka-hbyyffokvm0-unsplash.jpg
 ---
+_Image: Paul Hanaoka on Unsplash_
+
 Often forgotten, these 6 things are worthwhile incorporating into your regular cleaning sanitising regime (because health is important and gunk removal is never a bad thing).
 
 **1. Your phone**
@@ -26,6 +28,10 @@ Check your phone manufacturers guidelines and used an approved cleaning agent to
 Apart from a general clean being good to remove fingerprints on your screen, plus dirt and dust, thinking about finger and keyboard interaction makes you realise how quickly germs might be transferred from one to the other. 
 
 Try a daily wipe down with manufacturer specific cleaning guidelines in mind.
+
+![](/img/sergi-kabrera-xscgqbcrhyw-unsplash.jpg)
+
+_Image: Sergi Kabrera on Unsplash_
 
 **3. Your steering wheel**
 
@@ -61,13 +67,9 @@ I'd suggest a one-off clean out of all the old receipt-debris will do your Konma
 
 As with any surface, reading the manufacturer's cleaning guidelines is paramount. 
 
-
-
 If you don't currently include these six items on your cleaning regime, it's well worth considering. You may find many more you can add to your list. 
 
 Stay safe. 
-
-
 
 \*\*\*\*
 
